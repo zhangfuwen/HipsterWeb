@@ -2,6 +2,28 @@
 
 This application was generated using JHipster 5.7.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.7.2](https://www.jhipster.tech/documentation-archive/v5.7.2).
 
+## Notes
+
+1. to run
+
+```
+gradle
+```
+
+2. to add social login, consider keycloak
+
+3. to enable npm to prefer offline
+
+add
+
+```
+prefer-offline=true
+```
+
+to ~/.npmrc
+
+4. yarn to said to have advantages over npm, which is not quite true for now
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:

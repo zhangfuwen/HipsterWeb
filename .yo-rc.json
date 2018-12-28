@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.zhangfuwen.night",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "HipsterWeb",
+        "packageName": "com.zhangfuwen.night",
+        "packageFolder": "com/zhangfuwen/night",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": "spring-websocket",
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Yzg4OTdlMjI2Y2NlZjY5NzhlYTU5NWYyYmZjMGFiNWIwNGVmZDgzYzhhOWU0ODJiOGIyNmExZDhlODZkOWY4MTZhZTVjNGJhOTY1MDg0ZWNiYjcyOWI3Nzk0MGFiMjhhY2Q2M2QyNGIzNDk3MzIxMGNjYTQwM2U1ZDIzNzNhNjU=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "zh-cn"]
+    }
+}
